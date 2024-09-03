@@ -118,7 +118,10 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 ## <div align="center">Projects</div>
 
-- [private yet]
+- [ctf-write-ups]() - collection of write-ups and solutions for various Capture The Flag (CTF) challenges that I have participated in.
+- [ghidralyzer](https://github.com/samaellovecraft/ghidralyzer) - tool that automates the process of creating a project, importing and analyzing a binary in Ghidra from the command line.
+- [cybersiren-aiogram]() - Telegram bot featuring a personality quiz, developed using the aiogram framework.
+- [hdrezka.zen](https://github.com/samaellovecraft/hdrezka.zen) - browser extension created (partly for fun) to improve general well-being by removing comment section.
 - [private yet]
 - [private yet]
 
