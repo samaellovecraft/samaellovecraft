@@ -17,7 +17,16 @@
   </picture>
 </div>
 
-Salut and welcome to my GitHub profile! I go by the name Samael Lovecraft. I’m a self-taught Full Stack Web Developer and sometimes a miscellaneous programmer. I began my web journey in 2020, but at first, I wasn’t very passionate about it and only freelanced occasionally. However, everything changed in 2022 when I discovered my true passion for cybersecurity. I was so enamored by my first reverse shell that I adamantly decided to pursue a career in infosec. I find all job roles fascinating, from penetration testing and red teaming to SOC and DFIR positions. So, currently, I spend most of my time hacking my way into this field. Below, you can take a glance at some of my [projects](#projects), accomplishments, and [statistics](#statistics). Feel free to [reach out](#socials) to me if you have any offers or questions. I’m always open to new opportunities and challenges. Thanks for visiting!
+Driven and self-motivated cybersecurity enthusiast with over 4 years of experience in software development and 3 years of dedicated study in cybersecurity.
+
+- Proven ability to excel in Capture the Flag (CTF) competitions and platforms like Hack The Box (HTB) and TryHackMe ([ctf-write-ups]()).
+- Proficient in setting up and managing home labs, including Active Directory environments.
+- Strong technical skills in **web application auditing**, **network auditing**, and **pentesting Active Directory environments**.
+- Experience with *smart contract testing* (**blockchain**), *mobile application testing* (**Android**), *reverse engineering*, *binary exploitation*, and *forensic analysis*.
+- Adept at *programming* in multiple languages and *developing custom applications* ([Projects](#Projects)).
+- Excellent command of English, attention to detail, and skilled in writing clear, concise, and professional reports ([Medium blog](https://medium.com/@samaellovecraft)).
+
+Feel free to [reach out](#socials) to me if you have any offers or questions. I’m always open to new opportunities and challenges.
 
 <div align="center">
   <picture>
