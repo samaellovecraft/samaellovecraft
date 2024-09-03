@@ -16,6 +16,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/cybersamurai2121.png" alt="TryHackMe" align="right" width="220px" height="50px">
   </picture>
 </div>
+<br>
 
 Driven and self-motivated cybersecurity enthusiast with over 4 years of experience in software development and 3 years of dedicated study in cybersecurity.
 
