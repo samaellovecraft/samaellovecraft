@@ -58,7 +58,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
   </picture>
 </div>
 
-## <div align="center">Technologies</div>
+# <div align="center">Technologies</div>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](https://github.com/search?q=user%3Asamaellovecraft+language%3APython&type=code)
 [![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#technologies)
@@ -88,23 +88,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&labelColor=black&logoColor=B7410E)](#learning)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8)](#learning)
 
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/hydra-left.svg">
-    <img src="/svg/light/hydra-left.svg" width="48px" height="48px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/concentric-crescents.svg">
-    <img src="/svg/light/concentric-crescents.svg" width="48px" height="48px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/hydra-right.svg">
-    <img src="/svg/light/hydra-right.svg" width="48px" height="48px"/>
-  </picture>
-</div>
-
-## <div align="center">Projects</div>
+# <div align="center">Projects</div>
 
 - [ctf-write-ups](https://github.com/samaellovecraft/ctf-write-ups) - collection of write-ups and solutions for various Capture The Flag (CTF) challenges that I have participated in.
 - [ghidralyzer](https://github.com/samaellovecraft/ghidralyzer) - tool that automates the process of creating a project, importing and analyzing a binary in Ghidra from the command line.
@@ -113,43 +97,11 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 - [private yet]
 - [private yet]
 
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Cycloborgps.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Cycloborgps.svg" width="48px" height="48px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
-  </picture>
-</div>
-
-## <div align="center">Socials</div>
+# <div align="center">Socials</div>
 
 [![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:samaellovecraft@protonmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samaellovecraft) [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@samaellovecraft) [![HTB](https://img.shields.io/badge/Hack_The_Box-141A26?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1007130) [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/cybersamurai2121)
 
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Other_X.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Other_X.svg"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Devil_Kitty.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Devil_Kitty.svg" width="48px" height="48px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Other_X.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Other_X.svg"/>
-  </picture>
-</div>
-
-## <div align="center">Statistics</div>
+# <div align="center">Statistics</div>
 
 <div align="center">
   <picture>
