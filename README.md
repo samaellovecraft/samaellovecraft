@@ -60,7 +60,20 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 ## <div align="center">Technologies</div>
 
-[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#technologies) [![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#technologies) [![Flask](https://img.shields.io/badge/Flask-fff?style=for-the-badge&logo=flask&logoColor=white&labelColor=000)](#technologies) [![JavaScript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#technologies) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=black)](#technologies) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)](#technologies) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)](#technologies) [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black)](#technologies) [![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#technologies) [![Shell](https://img.shields.io/badge/shell_script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=000)](#technologies) [![PowerShell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=5391FE&labelColor=black)](#technologies) [![Solidity](https://img.shields.io/badge/solididy-363636?style=for-the-badge&logo=solidity&labelColor=black&logoColor=363636)](#technologies)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](https://github.com/search?q=user%3Asamaellovecraft+language%3APython&type=code)
+[![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#technologies)
+[![Flask](https://img.shields.io/badge/Flask-fff?style=for-the-badge&logo=flask&logoColor=white&labelColor=000)](#technologies)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/search?q=user%3Asamaellovecraft+language%3AJavaScript&type=code)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=black)](#technologies)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)](#technologies)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)](#technologies)
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black)](#technologies)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=black&logoColor=FCC624)](#technologies)
+[![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](https://github.com/search?q=user%3Asamaellovecraft+language%3AC&type=code)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=000)](https://github.com/search?q=user%3Asamaellovecraft+language%3AShell&type=code)
+[![Solidity](https://img.shields.io/badge/solididy-363636?style=for-the-badge&logo=solidity&labelColor=black&logoColor=363636)](#technologies)
+[![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&labelColor=black&logoColor=34A853)](#technologies)
+
 
 <br>
 <div align="center">
@@ -78,9 +91,9 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
   </picture>
 </div>
 
-## <div align="center">Favorites</div>
+## <div align="center">Skills</div>
 
-[![Network Exploitation](https://img.shields.io/badge/network_exploitation-000.svg?style=for-the-badge&logo=cisco&logoColor=ED3501)](#favorites) [![Linux PrivEsc](https://img.shields.io/badge/Linux_Privilege_Escalation-000?style=for-the-badge&logo=linux&logoColor=ED3501)](#favorites) [![Web Application Security](https://img.shields.io/badge/Web_Application_Security-000.svg?style=for-the-badge&logo=owasp&logoColor=ED3501)](#favorites) [![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=ED3501)](#favorites) [![Blockchain](https://img.shields.io/badge/Blockchain_Security-000?style=for-the-badge&logo=ethereum&logoColor=ED3501)](#favorites)
+[![Network Security Assesmen](https://img.shields.io/badge/network_exploitation-000.svg?style=for-the-badge&logo=cisco&logoColor=ED3501)](#skills) [![Linux PrivEsc](https://img.shields.io/badge/Linux_Privilege_Escalation-000?style=for-the-badge&logo=linux&logoColor=ED3501)](#skills) [![Web Application Security](https://img.shields.io/badge/Web_Application_Security-000.svg?style=for-the-badge&logo=owasp&logoColor=ED3501)](#skills) [![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=ED3501)](#skills) [![Blockchain](https://img.shields.io/badge/Blockchain_Security-000?style=for-the-badge&logo=ethereum&logoColor=ED3501)](#skills)
 
 <br>
 <div align="center">
@@ -145,7 +158,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 ## <div align="center">Socials</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samaellovecraft) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/F21T21R) [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samaellovecraft) [![HTB](https://img.shields.io/badge/HackTheBox-141A26?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1007130) [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/cybersamurai2121)
+[![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:samaellovecraft@protonmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samaellovecraft) [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@samaellovecraft) [![HTB](https://img.shields.io/badge/Hack_The_Box-141A26?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1007130) [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/cybersamurai2121)
 
 <br>
 <div align="center">
