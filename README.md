@@ -74,27 +74,6 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Solidity](https://img.shields.io/badge/solididy-363636?style=for-the-badge&logo=solidity&labelColor=black&logoColor=363636)](#technologies)
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&labelColor=black&logoColor=34A853)](#technologies)
 
-
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Parts.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Parts.svg"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Ofer's_Skull.svg">
-    <img src="/svg/light/LD+R/LD+R_Ofer's_Skull.svg"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
-  </picture>
-</div>
-
-## <div align="center">Skills</div>
-
-[![Network Security Assesmen](https://img.shields.io/badge/network_exploitation-000.svg?style=for-the-badge&logo=cisco&logoColor=ED3501)](#skills) [![Linux PrivEsc](https://img.shields.io/badge/Linux_Privilege_Escalation-000?style=for-the-badge&logo=linux&logoColor=ED3501)](#skills) [![Web Application Security](https://img.shields.io/badge/Web_Application_Security-000.svg?style=for-the-badge&logo=owasp&logoColor=ED3501)](#skills) [![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=ED3501)](#skills) [![Blockchain](https://img.shields.io/badge/Blockchain_Security-000?style=for-the-badge&logo=ethereum&logoColor=ED3501)](#skills)
-
 <br>
 <div align="center">
   <picture>
@@ -112,6 +91,9 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 </div>
 
 ## <div align="center">Currently Learning</div>
+
+[![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&labelColor=black&logoColor=B7410E)](#currently-learning)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8)](#currently-learning)
 
 <br>
 <div align="center">
