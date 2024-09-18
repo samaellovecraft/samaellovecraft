@@ -46,7 +46,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Heart.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Heart.svg" width="38" height="38"/>
+    <img src="/svg/light/LD+R/LD+R_Michael's_Heart.svg" width="21" height="21"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_X.svg">
