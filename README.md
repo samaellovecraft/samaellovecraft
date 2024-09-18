@@ -18,16 +18,17 @@
 </div>
 <br>
 
-Driven and self-motivated cybersecurity enthusiast with over 4 years of experience in software development and 3 years of dedicated study in cybersecurity.
+Driven and self-motivated cybersecurity enthusiast with _**4+ years of experience in software development**_ and _**3+ years of hands-on cybersecurity expertise**_.
 
-- Proven ability to excel in Capture the Flag (CTF) competitions and platforms like Hack The Box (HTB) and TryHackMe ([ctf-write-ups]()).
+- Adept at **programming** in multiple languages and **developing custom applications** ([Projects](#Projects)).
+- Solid technical skills in **web application auditing**, **network auditing**, and **pentesting Active Directory environments**.
+- Experience with _smart contract testing_ (**blockchain**), _mobile application testing_ (**Android**), _reverse engineering_, _binary exploitation_, and _forensic analysis_.
+- Proven ability to excel in Capture the Flag (CTF) competitions and platforms like Hack The Box (HTB) and TryHackMe ([ctf-write-ups](https://github.com/samaellovecraft/ctf-write-ups)).
+- Strong **teamwork skills**, collaborating effectively with other CTF participants to solve challenges, share knowledge, and optimize strategies. **Rapid adaptability** to various team structures and communication styles.
 - Proficient in setting up and managing home labs, including Active Directory environments.
-- Strong technical skills in **web application auditing**, **network auditing**, and **pentesting Active Directory environments**.
-- Experience with *smart contract testing* (**blockchain**), *mobile application testing* (**Android**), *reverse engineering*, *binary exploitation*, and *forensic analysis*.
-- Adept at *programming* in multiple languages and *developing custom applications* ([Projects](#Projects)).
-- Excellent command of English, attention to detail, and skilled in writing clear, concise, and professional reports ([Medium blog](https://medium.com/@samaellovecraft)).
+- Excellent command of English, **attention to detail**, and skilled in **writing** clear, concise, and professional reports ([Medium Blog](https://medium.com/@samaellovecraft)).
 
-Feel free to [reach out](#socials) to me if you have any offers or questions. Iâ€™m always open to new opportunities and challenges.
+Feel free to [reach out](#socials) to me if you have any offers or questions. I'm always open to new opportunities and challenges!
 
 <div align="center">
   <picture>
@@ -36,9 +37,10 @@ Feel free to [reach out](#socials) to me if you have any offers or questions. Iâ
 </div>
 
 ```bash
-mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfach, Beharrlichkeit eine Kunst.' | cat - try > harder & cat < harder > try 
+mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfach, Beharrlichkeit eine Kunst.' | cat - try > harder & cat < harder > try
 ```
-> *Credits: [LD+R Icons by Michael Chernyak & Ofer Ariel](https://uxuihero.com/love-death-robots-free-fan-iconfont/)*
+
+> _Credits: [LD+R Icons by Michael Chernyak & Ofer Ariel](https://uxuihero.com/love-death-robots-free-fan-iconfont/)_
 
 <br>
 <div align="center">
@@ -142,6 +144,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 </div>
 
 ## <div align="center">Socials</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samaellovecraft) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/F21T21R) [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samaellovecraft) [![HTB](https://img.shields.io/badge/HackTheBox-141A26?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1007130) [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/cybersamurai2121)
 
 <br>
