@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://example.com">
+  <picture>
     <img src="/svg/HTB.svg" width="60px" height="60px">
-  </a>
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/fsociety.svg">
     <img src="/svg/light/batman.svg" width="60px" height="60px">
