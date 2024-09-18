@@ -76,14 +76,14 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=black&logoColor=FCC624)](#technologies)
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&labelColor=black&logoColor=34A853)](#technologies)
 
-### <div align="center">Familiar With</div>
+## <div align="center">Familiar With</div>
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=black&logoColor=777BB4)](#familiar-with)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=black)](#familiar-with)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black&logoColor=2496ED)](#familiar-with)
 [![Solidity](https://img.shields.io/badge/solididy-363636?style=for-the-badge&logo=solidity&labelColor=black&logoColor=363636)](#familiar-with)
 
-### <div align="center">Currently Learning</div>
+## <div align="center">Currently Learning</div>
 
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&labelColor=black&logoColor=B7410E)](#currently-learning)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8)](#currently-learning)
