@@ -71,24 +71,9 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=black&logoColor=FCC624)](#technologies)
 [![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](https://github.com/search?q=user%3Asamaellovecraft+language%3AC&type=code)
 [![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=000)](https://github.com/search?q=user%3Asamaellovecraft+language%3AShell&type=code)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=000)](https://github.com/search?q=user%3Asamaellovecraft+language%3ALua&type=code)
 [![Solidity](https://img.shields.io/badge/solididy-363636?style=for-the-badge&logo=solidity&labelColor=black&logoColor=363636)](#technologies)
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&labelColor=black&logoColor=34A853)](#technologies)
-
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/red-eye.svg">
-    <img src="/svg/light/red-eye.svg" width="48px" height="48px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/sec.svg">
-    <img src="/svg/light/sec.svg" width="48px" height="48px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/red-eye.svg">
-    <img src="/svg/light/red-eye.svg" width="48px" height="48px"/>
-  </picture>
-</div>
 
 ## <div align="center">Currently Learning</div>
 
