@@ -58,7 +58,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
   </picture>
 </div>
 
-## <div align="center">Technologies</div>
+# <div align="center">Technologies</div>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](https://github.com/search?q=user%3Asamaellovecraft+language%3APython&type=code)
 [![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#technologies)
