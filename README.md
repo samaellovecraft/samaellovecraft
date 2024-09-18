@@ -58,7 +58,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
   </picture>
 </div>
 
-## <div align="center">Technologies</div>
+## <div align="center"><b>Technologies</b></div>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](https://github.com/search?q=user%3Asamaellovecraft+language%3APython&type=code)
 [![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#technologies)
@@ -113,8 +113,6 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 ## <div align="center">Currently Learning</div>
 
-[![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=ED3501)](#currently-learning) [![Windows PrivEsc](https://img.shields.io/badge/Windows_Privilege_Escalation-000?style=for-the-badge&logo=windows&logoColor=ED3501)](#currently-learning) [![Windows PrivEsc](https://img.shields.io/badge/Active_Directory-000?style=for-the-badge&logo=windows&logoColor=ED3501)](#currently-learning) [![Docker](https://img.shields.io/badge/docker-000.svg?style=for-the-badge&logo=docker&logoColor=ED3501)](#currently-learning) [![Ansible](https://img.shields.io/badge/ansible-000.svg?style=for-the-badge&logo=ansible&logoColor=ED3501)](#currently-learning) [![Kubernetes](https://img.shields.io/badge/kubernetes-000.svg?style=for-the-badge&logo=kubernetes&logoColor=ED3501)](#currently-learning)
-
 <br>
 <div align="center">
   <picture>
@@ -133,7 +131,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 ## <div align="center">Projects</div>
 
-- [ctf-write-ups]() - collection of write-ups and solutions for various Capture The Flag (CTF) challenges that I have participated in.
+- [ctf-write-ups](https://github.com/samaellovecraft/ctf-write-ups) - collection of write-ups and solutions for various Capture The Flag (CTF) challenges that I have participated in.
 - [ghidralyzer](https://github.com/samaellovecraft/ghidralyzer) - tool that automates the process of creating a project, importing and analyzing a binary in Ghidra from the command line.
 - [cybersiren-aiogram]() - Telegram bot featuring a personality quiz, developed using the aiogram framework.
 - [hdrezka.zen](https://github.com/samaellovecraft/hdrezka.zen) - browser extension created (partly for fun) to improve general well-being by removing comment section.
