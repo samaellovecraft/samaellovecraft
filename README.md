@@ -64,7 +64,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#technologies)
 [![Flask](https://img.shields.io/badge/Flask-fff?style=for-the-badge&logo=flask&logoColor=white&labelColor=000)](#technologies)
 [![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=aiohttp&logoColor=2C5BB4&labelColor=000)](#technologies)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=000)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=000)](#technologies)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/search?q=user%3Asamaellovecraft+language%3AJavaScript&type=code)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=black)](#technologies)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)](#technologies)
@@ -76,14 +76,14 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=000)](https://github.com/search?q=user%3Asamaellovecraft+language%3ALua&type=code)
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&labelColor=black&logoColor=34A853)](#technologies)
 
-### <div align="center">Familiar With</div>
+#### <div align="center">Familiar With</div>
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=black&logoColor=777BB4)](#familiar-with)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=black)](#familiar-with)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black&logoColor=2496ED)](#familiar-with)
 [![Solidity](https://img.shields.io/badge/solididy-363636?style=for-the-badge&logo=solidity&labelColor=black&logoColor=363636)](#familiar-with)
 
-### <div align="center">Currently Learning</div>
+#### <div align="center">Currently Learning</div>
 
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&labelColor=black&logoColor=B7410E)](#currently-learning)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8)](#currently-learning)
