@@ -64,6 +64,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#technologies)
 [![Flask](https://img.shields.io/badge/Flask-fff?style=for-the-badge&logo=flask&logoColor=white&labelColor=000)](#technologies)
 [![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=aiohttp&logoColor=2C5BB4&labelColor=000)](#technologies)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=000)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/search?q=user%3Asamaellovecraft+language%3AJavaScript&type=code)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=black)](#technologies)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)](#technologies)
