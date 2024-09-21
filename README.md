@@ -95,7 +95,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 <div align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaellovecraft&layout=donut-vertical&hide_border=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaellovecraft&layout=donut-vertical&hide_border=true&theme=tokyonight&hide=html,css"/>
   </picture>
 </div>
 <div align="center">
