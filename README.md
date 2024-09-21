@@ -42,21 +42,13 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 > _Credits: [LD+R Icons by Michael Chernyak & Ofer Ariel](https://uxuihero.com/love-death-robots-free-fan-iconfont/)_
 
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Heart.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Heart.svg" width="33" height="33"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_X.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_X.svg" width="33" height="33"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Ofer's_Bloody_Robot.svg">
-    <img src="/svg/light/LD+R/LD+R_Ofer's_Bloody_Robot.svg" width="33" height="33"/>
-  </picture>
-</div>
+# <div align="center">Socials</div>
+
+[![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:samaellovecraft@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samaellovecraft)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@samaellovecraft)
+[![HTB](https://img.shields.io/badge/Hack_The_Box-141A26?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1007130)
+[![THM](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/cybersamurai2121)
 
 # <div align="center">Technologies</div>
 
@@ -98,10 +90,6 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 - ~~[private yet]~~
 - ~~[private yet]~~
 - ~~[private yet]~~
-
-# <div align="center">Socials</div>
-
-[![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:samaellovecraft@protonmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samaellovecraft) [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@samaellovecraft) [![HTB](https://img.shields.io/badge/Hack_The_Box-141A26?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1007130) [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/cybersamurai2121)
 
 # <div align="center">Statistics</div>
 
