@@ -79,6 +79,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 ### <div align="center">Familiar with</div>
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=black&logoColor=777BB4)](#familiar-with)
+[![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&labelColor=black&logoColor=f89820)](#familiar-with)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=black)](#familiar-with)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black&logoColor=2496ED)](#familiar-with)
 [![Solidity](https://img.shields.io/badge/solididy-363636?style=for-the-badge&logo=solidity&labelColor=black&logoColor=363636)](#familiar-with)
@@ -92,10 +93,11 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 - [ctf-write-ups](https://github.com/samaellovecraft/ctf-write-ups) - collection of write-ups and solutions for various Capture The Flag (CTF) challenges that I have participated in.
 - [ghidralyzer](https://github.com/samaellovecraft/ghidralyzer) - tool that automates the process of creating a project, importing and analyzing a binary in Ghidra from the command line.
-- [cybersiren-aiogram]() - Telegram bot featuring a personality quiz, developed using the aiogram framework.
+- [cybersiren-aiogram](https://github.com/samaellovecraft/cybersiren-aiogram) - Telegram bot featuring a personality quiz, developed using the aiogram framework.
 - [hdrezka.zen](https://github.com/samaellovecraft/hdrezka.zen) - browser extension created (partly for fun) to improve general well-being by removing comment section.
-- [private yet]
-- [private yet]
+- ~~[private yet]~~
+- ~~[private yet]~~
+- ~~[private yet]~~
 
 # <div align="center">Socials</div>
 
