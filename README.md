@@ -76,6 +76,21 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 - Strong **analytical thinking**.
 - “Try Harder” mentality.
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Parts.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Parts.svg"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Ofer's_Skull.svg">
+    <img src="/svg/light/LD+R/LD+R_Ofer's_Skull.svg"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
+  </picture>
+</div>
+
 # <div align="center">Socials</div>
 
 [![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:samaellovecraft@protonmail.com)
@@ -83,6 +98,21 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@samaellovecraft)
 [![HTB](https://img.shields.io/badge/Hack_The_Box-141A26?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1007130)
 [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/cybersamurai2121)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/red-eye.svg">
+    <img src="/svg/light/red-eye.svg" width="48px" height="48px"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/sec.svg">
+    <img src="/svg/light/sec.svg" width="48px" height="48px"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/red-eye.svg">
+    <img src="/svg/light/red-eye.svg" width="48px" height="48px"/>
+  </picture>
+</div>
 
 # <div align="center">Technologies</div>
 
@@ -115,6 +145,21 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&labelColor=black&logoColor=B7410E)](#learning)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8)](#learning)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/hydra-left.svg">
+    <img src="/svg/light/hydra-left.svg" width="48px" height="48px"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/concentric-crescents.svg">
+    <img src="/svg/light/concentric-crescents.svg" width="48px" height="48px"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/hydra-right.svg">
+    <img src="/svg/light/hydra-right.svg" width="48px" height="48px"/>
+  </picture>
+</div>
+
 # <div align="center">Projects</div>
 
 - [ctf-write-ups](https://github.com/samaellovecraft/ctf-write-ups) - collection of well-documented write-ups and solutions for various Capture The Flag (CTF) challenges that I have participated in.
@@ -124,6 +169,21 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 - ~~[private yet]~~
 - ~~[private yet]~~
 - ~~[private yet]~~
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Cycloborgps.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Cycloborgps.svg" width="48px" height="48px"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
+  </picture>
+</div>
 
 # <div align="center">Statistics</div>
 
