@@ -24,7 +24,7 @@ Driven and self-motivated cybersecurity enthusiast with a strong interest in eth
 <summary><b>Table of Contents</b></summary>
 
 - [Skills](#skills)
-- [Socials](#socials)
+  - [Socials](#socials)
 - [Technologies](#technologies)
     - [Familiar with](#familiar-with)
     - [Learning](#learning)
@@ -76,22 +76,23 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 - Strong **analytical thinking**.
 - “Try Harder” mentality.
 
+<br>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Parts.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Parts.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Other_X.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Other_X.svg"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Ofer's_Skull.svg">
-    <img src="/svg/light/LD+R/LD+R_Ofer's_Skull.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Devil_Kitty.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Devil_Kitty.svg" width="48px" height="48px"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Other_X.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Other_X.svg"/>
   </picture>
 </div>
 
-# <div align="center">Socials</div>
+## <div align="center">Socials</div>
 
 [![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:samaellovecraft@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samaellovecraft)
