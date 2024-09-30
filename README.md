@@ -76,19 +76,18 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 - Strong **analytical thinking**.
 - “Try Harder” mentality.
 
-<br>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Other_X.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Other_X.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/red-eye.svg">
+    <img src="/svg/light/red-eye.svg" width="48px" height="48px"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Devil_Kitty.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Devil_Kitty.svg" width="48px" height="48px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/sec.svg">
+    <img src="/svg/light/sec.svg" width="48px" height="48px"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Other_X.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Other_X.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/red-eye.svg">
+    <img src="/svg/light/red-eye.svg" width="48px" height="48px"/>
   </picture>
 </div>
 
@@ -102,16 +101,16 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/red-eye.svg">
-    <img src="/svg/light/red-eye.svg" width="48px" height="48px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/sec.svg">
-    <img src="/svg/light/sec.svg" width="48px" height="48px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Cycloborgps.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Cycloborgps.svg" width="48px" height="48px"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/red-eye.svg">
-    <img src="/svg/light/red-eye.svg" width="48px" height="48px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
   </picture>
 </div>
 
@@ -173,16 +172,16 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Other_X.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Other_X.svg"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Cycloborgps.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Cycloborgps.svg" width="48px" height="48px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Devil_Kitty.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Devil_Kitty.svg" width="48px" height="48px"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg">
-    <img src="/svg/light/LD+R/LD+R_Michael's_Apocalipse_Tourist.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Other_X.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Other_X.svg"/>
   </picture>
 </div>
 
