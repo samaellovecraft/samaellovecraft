@@ -1,13 +1,6 @@
 <div align="center">
   <picture>
-    <img src="/svg/HTB.svg" width="60px" height="60px">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/fsociety.svg">
-    <img src="/svg/light/batman.svg" width="60px" height="60px">
-  </picture>
-  <picture>
-    <img src="/svg/THM.svg" width="60px" height="60px">
+    <img src="/svg/glider.svg" width="48px" height="48px"/>
   </picture>
   <picture>
     <img src="https://www.hackthebox.eu/badge/image/1007130" align="left">
@@ -17,18 +10,6 @@
   </picture>
 </div>
 <br>
-
-Driven and self-motivated cybersecurity enthusiast with _**4+ years of experience in software development**_ and _**3+ years of hands-on cybersecurity expertise**_.
-
-- Adept at **programming** in multiple languages and **developing custom applications** ([Projects](#projects)).
-- Solid technical skills in **web application auditing**, **network auditing**, and **pentesting Active Directory environments**.
-- Experience with _smart contract testing_ (**blockchain**), _mobile application testing_ (**Android**), _reverse engineering_, _binary exploitation_, and _forensic analysis_.
-- Proven ability to excel in Capture the Flag (CTF) competitions and platforms like Hack The Box (HTB) and TryHackMe ([ctf-write-ups](https://github.com/samaellovecraft/ctf-write-ups)).
-- Strong **teamwork skills**, collaborating effectively with other CTF participants to solve challenges, share knowledge, and optimize strategies. **Rapid adaptability** to various team structures and communication styles.
-- Proficient in setting up and managing home labs, including Active Directory environments.
-- Excellent command of English, **attention to detail**, and skilled in **writing** clear, concise, and professional reports ([Medium Blog](https://medium.com/@samaellovecraft)).
-
-Feel free to [reach out](#socials) to me if you have any offers or questions. I'm always open to new opportunities and challenges!
 
 <div align="center">
   <picture>
