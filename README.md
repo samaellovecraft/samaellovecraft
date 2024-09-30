@@ -1,6 +1,13 @@
 <div align="center">
   <picture>
-    <img src="/svg/glider.svg" width="48px" height="48px"/>
+    <img src="/svg/HTB.svg" width="60px" height="60px">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/fsociety.svg">
+    <img src="/svg/light/batman.svg" width="60px" height="60px">
+  </picture>
+  <picture>
+    <img src="/svg/THM.svg" width="60px" height="60px">
   </picture>
   <picture>
     <img src="https://www.hackthebox.eu/badge/image/1007130" align="left">
@@ -10,6 +17,8 @@
   </picture>
 </div>
 <br>
+
+Driven and self-motivated cybersecurity enthusiast with _**4+ years of experience in software development**_ and _**3+ years of hands-on cybersecurity expertise**_.
 
 <div align="center">
   <picture>
