@@ -23,6 +23,7 @@ Driven and self-motivated cybersecurity enthusiast with a strong interest in eth
 <details>
 <summary><b>Table of Contents</b></summary>
 
+- [Skills](#skills)
 - [Socials](#socials)
 - [Technologies](#technologies)
     - [Familiar with](#familiar-with)
@@ -43,6 +44,22 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 ```
 
 > _Credits: [LD+R Icons by Michael Chernyak & Ofer Ariel](https://uxuihero.com/love-death-robots-free-fan-iconfont/)_
+
+# <div align="center">Skills</div>
+
+- Adept at programming in multiple languages and developing custom applications with **Python**, **Django**, **Flask**, **SQL**, **JavaScript**, **C**, **Bash**, **Lua**.
+  - Familiar with **PHP**, **Java**, **C#**, **Solidity**, **Docker**.
+- **Linux System Administration** – Confident user with system administrator-level proficiency (e.g., server management, automation, scripting).
+- Good understanding of **computer networking**, **cryptography** and common protocols.
+- Solid technical skills in **web application auditing**, **network auditing**, and **pentesting Active Directory environments**.
+  - Proficient with cybersecurity tools: **Burp Suite**, **Nmap**, **Wireshark**, **Metasploit**, **Hashcat**, **Mimikatz**, **Impacket**, **NetExec**, etc.
+  - Additional exposure to: **OpenVAS**, **Nessus**, **Splunk**, **Ghidra**, **Aircrack-ng**, **Volatility**, **Autopsy**.
+- Hands-on experience with _smart contract testing_ (**blockchain**), _mobile application testing_ (**Android**), **code review**, **reverse engineering**, **binary exploitation**, and **forensic analysis**.
+- Proven track record of excelling in Capture the Flag (CTF) competitions, leveraging **effective communication and collaboration skills** to solve challenges in diverse team dynamics.
+- Excellent command of English, **attention to detail**, and **skilled in writing** clear, concise, and professional reports.
+- Deep passion for continuous learning and **rapid adaptability to new technologies**.
+- Strong **analytical thinking**.
+- “Try Harder” mentality.
 
 # <div align="center">Socials</div>
 
@@ -85,7 +102,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 # <div align="center">Projects</div>
 
-- [ctf-write-ups](https://github.com/samaellovecraft/ctf-write-ups) - collection of write-ups and solutions for various Capture The Flag (CTF) challenges that I have participated in.
+- [ctf-write-ups](https://github.com/samaellovecraft/ctf-write-ups) - collection of well-documented write-ups and solutions for various Capture The Flag (CTF) challenges that I have participated in.
 - [ghidralyzer](https://github.com/samaellovecraft/ghidralyzer) - tool that automates the process of creating a project, importing and analyzing a binary in Ghidra from the command line.
 - [cybersiren-aiogram](https://github.com/samaellovecraft/cybersiren-aiogram) - Telegram bot featuring a personality quiz, developed using the aiogram framework.
 - [hdrezka.zen](https://github.com/samaellovecraft/hdrezka.zen) - browser extension created (partly for fun) to improve general well-being by removing comment section.
