@@ -4,7 +4,7 @@
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/fsociety.svg">
-    <img src="/svg/light/fsociety.svg" width="60px" height="60px">
+    <img src="/svg/light/batman.svg" width="60px" height="60px">
   </picture>
   <picture>
     <img src="/svg/THM.svg" width="60px" height="60px">
@@ -24,7 +24,7 @@ Driven and self-motivated cybersecurity enthusiast with a strong interest in eth
 <summary><b>Table of Contents</b></summary>
 
 - [Skills](#skills)
-  - [Socials](#socials)
+- [Socials](#socials)
 - [Technologies](#technologies)
     - [Familiar with](#familiar-with)
     - [Learning](#learning)
@@ -91,7 +91,7 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
   </picture>
 </div>
 
-## <div align="center">Socials</div>
+# <div align="center">Socials</div>
 
 [![Proton](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:samaellovecraft@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samaellovecraft)
