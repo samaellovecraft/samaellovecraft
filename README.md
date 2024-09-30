@@ -45,6 +45,21 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 
 > _Credits: [LD+R Icons by Michael Chernyak & Ofer Ariel](https://uxuihero.com/love-death-robots-free-fan-iconfont/)_
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_Heart.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_Heart.svg"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Michael's_X.svg">
+    <img src="/svg/light/LD+R/LD+R_Michael's_X.svg"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/LD+R/LD+R_Ofer's_Bloody_Robot.svg">
+    <img src="/svg/light/LD+R/LD+R_Ofer's_Bloody_Robot.svg"/>
+  </picture>
+</div>
+
 # <div align="center">Skills</div>
 
 - Adept at programming in multiple languages and developing custom applications with **Python**, **Django**, **Flask**, **SQL**, **JavaScript**, **C**, **Bash**, **Lua**.
