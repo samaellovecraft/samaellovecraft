@@ -18,7 +18,7 @@
 </div>
 <br>
 
-Driven and self-motivated cybersecurity enthusiast with _**4+ years of experience in software development**_ and _**3+ years of hands-on cybersecurity expertise**_.
+Driven and self-motivated cybersecurity enthusiast with a strong interest in ethical hacking, penetration testing, vulnerability analysis, network security and the IT field in general.
 
 <div align="center">
   <picture>
