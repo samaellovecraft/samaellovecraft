@@ -4,7 +4,7 @@
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/svg/dark/fsociety.svg">
-    <img src="/svg/light/batman.svg" width="60px" height="60px">
+    <img src="/svg/light/fsociety.svg" width="60px" height="60px">
   </picture>
   <picture>
     <img src="/svg/THM.svg" width="60px" height="60px">
