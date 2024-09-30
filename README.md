@@ -20,6 +20,18 @@
 
 Driven and self-motivated cybersecurity enthusiast with a strong interest in ethical hacking, penetration testing, vulnerability analysis, network security and the IT field in general. Feel free to [reach out](#socials) to me if you have any offers or questions. I'm always open to new opportunities and challenges!
 
+<details>
+<summary><b>Table of Contents</b></summary>
+
+- [Socials](#socials)
+- [Technologies](#technologies)
+    - [Familiar with](#familiar-with)
+    - [Learning](#learning)
+- [Projects](#projects)
+- [Statistics](#statistics)
+
+</details>
+
 <div align="center">
   <picture>
     <img src="/svg/glider.svg" width="48px" height="48px"/>
