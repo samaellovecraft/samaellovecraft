@@ -98,6 +98,9 @@ mkfifo try; mkfifo harder; echo -n 'Aller Anfang ist schwer. Anfangen ist einfac
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff)](https://medium.com/@samaellovecraft)
 [![HTB](https://img.shields.io/badge/Hack_The_Box-141A26?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1007130)
 [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/cybersamurai2121)
+[![HackerOne](https://img.shields.io/badge/HackerOne-000?style=for-the-badge&logo=hackerone&logoColor=fff)](#)
+[![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=intigriti&logoColor=fff)](#)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=fff)](#)
 
 <div align="center">
   <picture>
