@@ -13,7 +13,7 @@
     <img src="https://www.hackthebox.eu/badge/image/1007130" align="left">
   </picture>
   <picture>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1092478" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cybersamurai2121.png" alt="TryHackMe" align="right" width="220px" height="50px">
   </picture>
 </div>
 <br>
