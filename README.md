@@ -13,7 +13,7 @@
     <img src="https://www.hackthebox.eu/badge/image/1007130" align="left">
   </picture>
   <picture>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/cybersamurai2121.png?update=0" alt="TryHackMe" align="right">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cybersamurai2121.png" alt="TryHackMe" align="right" width="220px" height="50px">
   </picture>
 </div>
 <br>
